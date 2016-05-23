@@ -36,7 +36,10 @@ Or create your a new project with the lizmap interface and push your data to the
 See https://docs.docker.com/engine/userguide/containers/dockervolumes about docker volumes
 
  
+### Exposed ports
 
+- The Lizmap API  is exposed on the port **80** of the container
+- The qgis WMS server is exposed on the port **8200** of the container.
 
 
 
