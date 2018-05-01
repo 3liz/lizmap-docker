@@ -8,3 +8,5 @@ services:
         volumes:
             - './run/log:/var/log/lizmap'
 
+            # Uncomment the next line to mount the directory 'projects' into '/home'
+            # - './projects:/home'
