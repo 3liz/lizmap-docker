@@ -1,3 +1,5 @@
+# This project is deprecated in favor of the [docker-lizmap-web-client](https://github.com/3liz/docker-lizmap-web-client) image.
+
 Lizmap docker
 =============
 
